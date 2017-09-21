@@ -41,6 +41,10 @@ Or visit [http://www.scala-sbt.org/download.html](http://www.scala-sbt.org/downl
 val logJson: JValue = "text" -> "YOUR LOGS" 
 ```
 
+### Running the tests
+```shell
+$ sbt project run
+```
 
 ## Built With
 
